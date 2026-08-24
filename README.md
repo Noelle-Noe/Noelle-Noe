@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Noel 👋
 
-<!--
-**Noelle-Noe/Noelle-Noe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with a background in Business Information Systems.
 
-Here are some ideas to get you started:
+I build web applications, APIs, and data-driven systems with a focus on turning real business requirements into reliable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+TypeScript · JavaScript · React · Next.js · Node.js · NestJS · PostgreSQL · Docker
+
+## Currently Exploring
+
+AI-assisted software development, automation, and modern SaaS architecture.
