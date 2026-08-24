@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner" alt="Noel — Full-Stack Developer" width="100%" />
+</p>
+
+<br>
 # Hi, I'm Noel 👋
 
 Full-stack developer with a background in Business Information Systems.
