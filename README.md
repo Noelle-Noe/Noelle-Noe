@@ -34,15 +34,8 @@ AI-assisted software development, automation, and modern SaaS architecture.
 <p><sub><strong>CONNECT</strong></sub></p>
 
 <p>
-  <a href="https://www.linkedin.com/in/thet-myat-n-545546227/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:thetmyatnoe.jp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://my-portfolio-two-ochre-25.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" />
-  </a>
+  <a href="https://www.linkedin.com/in/thet-myat-n-545546227/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:thetmyatnoe.jp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://my-portfolio-two-ochre-25.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Portfolio"></a>
 </p>
-
 
