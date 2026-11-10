@@ -4,7 +4,7 @@
 
 <br>
 
-Full-stack developer with a background in **Business Information Systems**.
+Software Engineer with a background in **Business Information Systems**.
 
 I build web applications, APIs, and data-driven systems with a focus on turning real business requirements into reliable software.
 
